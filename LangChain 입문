@@ -1,0 +1,13 @@
+LangChain 매개변수 및 함수
+temperature 0으로 갈수록 창의성 없어짐
+LogProb 모델이 그 토큰을 예측할 확률
+invoke 한번에, stream 토큰별로 여러번
+
+멀티모달
+텍스트 이외의 정보들을 통합하여 처리하는 접근방식
+
+system_prompt 간략하게 => 전역설정 및 임무
+user_prompt 원하는 내용을 디테일하게
+
+프롬프트 - language 모델 - outputparser
+두개를 묶어주는 작업이 필요함
