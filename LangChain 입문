@@ -14,3 +14,6 @@ user_prompt 원하는 내용을 디테일하게
 
 chain = prompt | model | output_parser
 | 파이프 연산자 => 서로다른 구성요소를 연결하고 한 구성 요소의 출력을 다음 구성요소의 입력으로 전달합니다.
+
+
+runnable  
