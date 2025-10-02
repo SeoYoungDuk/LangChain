@@ -7,4 +7,8 @@ MessagePlaceholder 나중에 언젠가는 채워질 메세지를 제공 => 챗�
 FewShotPromptTemplate 한번에 답장하기 어려운 답변을 미리 대화들을 받아 사용
 Example Selector examples => 수학적 표현으로 변경, vector db(Chroma) 비용걱정이 될때 사용 및 질문 형식과 비슷한 답변 형식을 활용할 때 사용
 
+Max Marginal Relevanvce 알고리즘 
+관련해야하고 뽑힌 결과가 다양해야한다
+관련성 높은거 뽑고 가장 차별화된 항복을 찾아 선택
+DB에서 관련있는 거를 뽑음 다양성도 같이 봐줬으면 좋겠어
 
