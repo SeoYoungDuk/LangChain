@@ -12,3 +12,9 @@ Max Marginal Relevanvce 알고리즘
 관련성 높은거 뽑고 가장 차별화된 항복을 찾아 선택
 DB에서 관련있는 거를 뽑음 다양성도 같이 봐줬으면 좋겠어
 
+
+기본 Example Selector의 문제점
+Input 과 instruction 에 유사도를 봄
+원하는 쿼리만 사용하고싶다 => 그럴때는 커스텀 예제 검색기 
+
+langchain hub 
