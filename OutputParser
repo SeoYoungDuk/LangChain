@@ -1,0 +1,8 @@
+PydanticOutPutParser
+
+구조화된 답변 받을수 있음
+Pydantic 객체화된 답변 가능
+
+with_structured_output() 바인딩
+
+CommaSeperatedListOutputParser 리스트로 출력
